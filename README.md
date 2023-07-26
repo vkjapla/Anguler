@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-useing Star Wars API (https://swapi.dev/) to create a single page
+using Star Wars API (https://swapi.dev/) to create a single page
 application that presents a list that shows all the Star Wars films. Clicking on
 an item/film shows a new view of other details from the film such as
 characters, actors, space ships - here you can be creative and show us your
